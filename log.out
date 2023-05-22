@@ -1,0 +1,5 @@
+> initializing model parallel with size 1
+> initializing ddp with size 1
+> initializing pipeline with size 1
+Loading
+Loaded in 8.70 seconds
