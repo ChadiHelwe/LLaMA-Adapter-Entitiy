@@ -1,0 +1,5 @@
+instruction = """
+        Given a sentence, output the Wikipedia link for a mention that is surrounded by the special tokens [START_ENT] and [END_ENT]. 
+        For this input "[START_ENT] Paris [END_ENT] is the capital city of France", the correct output is "https://en.wikipedia.org/wiki/Paris".
+"""
+
